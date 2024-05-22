@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: 500; line-height: 1.4;">
-  FakeLP
+  FakeLP 🚓
 </h1>
 
 <p align="center">
