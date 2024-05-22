@@ -20,6 +20,7 @@
 - Baseline codes
 
 ### Overview:
+![Overview](./figs/overview.svg)
 - Task A. Fake License Plate Identification
   * Goal: Given a cropped image of the license plate, identify whether it is valid or not
 - Task B. Fake License Plate Detection
