@@ -3,8 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="#"><img alt="Python3.7+" src="https://img.shields.io/badge/Python-3.7+-blue?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="PyTorch1.5+" src="https://img.shields.io/badge/PyTorch-1.5+-orange?logo=pytorch&logoColor=white"></a>
+  <a href="#"><img alt="Python3.8" src="https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="PyTorch2.0.1" src="https://img.shields.io/badge/PyTorch-2.0.1+-orange?logo=pytorch&logoColor=white"></a>
+  <a href="#"><img alt="Torchvision0.15.2" src="https://img.shields.io/badge/TorchVision-0.15.2+-orange?logo=pytorch&logoColor=white"></a>
+  <a href="#"><img alt="ScikitLearn1.3.2" src="https://img.shields.io/badge/-0.15.2+-yellow?logo=sckitlearn&logoColor=white"></a>
   <a href="#"><img alt="MIT" src="https://img.shields.io/badge/License-MIT-green?logo=MIT"></a>
 </p>
 
@@ -25,3 +27,10 @@
   * Goal: Given a cropped image of the license plate, identify whether it is valid or not
 - Task B. Fake License Plate Detection
   * Goal: Locate license plates in an image and identify whether these are legal or not
+
+### Requirements:
+```angular2html
+torch
+torchvision
+jupyter
+```
